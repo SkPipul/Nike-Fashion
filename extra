@@ -1,0 +1,55 @@
+<div>
+                    <div class="py-5">
+                        <div class="p-5 rounded-4">
+                            <div class="shoe-bg p-4 rounded-4">
+                                <img src="./images/Daco_1703273 1.png" alt="">
+                            </div>
+                            <div class="pt-3">
+                                <h3>Nike Shoe</h3>
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, deserunt ab excepturi hic vel quidem!</p>
+                            </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="brand"><h2><b>$234</b></h2></div>
+                                <div>
+                                    <button class="btn btn-primary px-4 py-2"><i class="fa-solid fa-cart-shopping"></i> Buy Now</button> 
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <span>
+                    <div class="row row-cols-1 row-cols-md-3 g-4">
+                        <div class="col">
+                            
+                          </div>
+                          <div class="card p-4 rounded-4">
+                              <img src="./images/Daco_1703273 1.png" class="card-img-top shoe-bg" alt="...">
+                              <div class="card-body">
+                                <h3 class="card-title">Nike Shoe</h3>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                              </div>
+                              <div class="d-flex justify-content-between">
+                                  <div class="brand"><h2><b>$234</b></h2></div>
+                                  <div>
+                                      <button class="btn btn-primary px-4 py-2"><i class="fa-solid fa-cart-shopping"></i> Buy Now</button> 
+                                  </div>
+                            </div>
+                          </div>
+                          <div class="card p-4 rounded-4">
+                              <img src="./images/Daco_1703273 1.png" class="card-img-top shoe-bg" alt="...">
+                              <div class="card-body">
+                                <h3 class="card-title">Nike Shoe</h3>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                              </div>
+                              <div class="d-flex justify-content-between">
+                                  <div class="brand"><h2><b>$234</b></h2></div>
+                                  <div>
+                                      <button class="btn btn-primary px-4 py-2"><i class="fa-solid fa-cart-shopping"></i> Buy Now</button> 
+                                  </div>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                </span>
